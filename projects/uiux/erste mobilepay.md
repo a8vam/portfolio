@@ -1,5 +1,6 @@
 ---
 title: "Erste MobilePay — 2018 Redesign"
+thumbnail: "../static/uploads/uiux_cover.jpg"
 year: ""
 categories:
 - ui/ux
