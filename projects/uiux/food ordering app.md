@@ -1,7 +1,7 @@
 ---
-title: Food Ordering App
-thumbnail: img/cover.jpg
-year: ''
+title: "Food Ordering App"
+thumbnail: ""
+year: ""
 categories:
 - ui/ux
 
