@@ -1,23 +1,13 @@
 {
-  "site_name": "DPT",
-  "header_title": "Darkfolio Portfolio Theme",
-  "first_letter_only": true,
-  "email": "nichlas@itsnwa.com",
+  "site_name": "Portfolio of Mate Varga",
+  "header_title": "Portfolio of Máté Varga",
+  "first_letter_only": false,
+  "email": "hello@vam.nu",
   "social": [
     {
-      "channel": "twitter",
-      "handle": "nichlaswa",
-      "link_text": "tw"
-    },
-    {
       "channel": "instagram",
-      "handle": "its.nwa",
+      "handle": "vamzen",
       "link_text": "ig"
-    },
-    {
-      "channel": "github",
-      "handle": "itsnwa",
-      "link_text": "gh"
     }
   ]
 }
