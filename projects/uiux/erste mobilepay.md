@@ -1,6 +1,6 @@
 ---
 title: Erste MobilePay — 2018 Redesign
-thumbnail: ''
+thumbnail: cover.jpg
 year: ''
 categories:
 - ui/ux
